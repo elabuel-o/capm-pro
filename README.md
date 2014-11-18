@@ -10,5 +10,5 @@ The analysis is based in this [Calculating Investor Tutorial] (http://www.calcul
 Monthly data for 3 securities returns and excess returns: Johnson and Johnson, Procter and Gamble, and Walmart, plus returns of the Standard and Poor's 500 index and interest rates of T-bills.
 
 ### Figures
-A correlation matrix plot is provided in .pdf file format. The correlation matrix was made with the tikzDevice graphic device in R. The .tex file also is provided. 
+A correlation matrix plot is provided in .pdf file format. The correlation matrix was made with the tikzDevice graphic device in R; once the tikzDevice creates a .tex file, the latter is run in your favorite LaTeX editor with pdfLaTex. The .tex file is also provided. 
 
